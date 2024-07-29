@@ -3,7 +3,6 @@
 //Modify:https://github.com/smallfawn/decode_action
 /**
  * cron: 40 9 * * *
- *
  * yqdz
  *
  * export yqdz_accounts="手机号#密码"
